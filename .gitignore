@@ -39,3 +39,6 @@ npm-debug.log
 
 # nodmon configuration
 nodemon.json
+
+# src/config
+# src\config
