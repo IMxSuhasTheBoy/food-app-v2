@@ -30,7 +30,7 @@ app.get("/", (req, res) => {
 // //   console.log(`Node Server is running on ${PORT}`);
 // // });
 
-///Database Connection and Server Start
+///Database Connection and Server Start(special thanks to chatGpt approches suggetions)
 db.once("open", () => {
   app.listen(PORT, () => {
     console.log(`Node Server is running on ${PORT}`);
