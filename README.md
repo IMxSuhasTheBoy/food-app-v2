@@ -1,3 +1,3 @@
 # food-app-v2
 
-Application: es6, ts src mvc structure
+Application: es6, ts src/lib mvc structure
